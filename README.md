@@ -1,3 +1,3 @@
-# Teste1
+# Projeto-Teste
 
-Repositório criado durante ideias que eu tive 
+ Deixar salvo um projeto que estou estudando e pretendo aperfeiçoar bastante.
